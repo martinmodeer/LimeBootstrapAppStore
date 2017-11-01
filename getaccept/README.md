@@ -15,7 +15,7 @@ Features :
 - eSigning, make it easy for you customers to say and skip the hazle with printers and scanners
 
 #How does it work
-You can add the GetAccept App on every object where there is a document tab present. 
+You can add the GetAccept App on every object where there is a document tab present.
 
 ##Installation
 1. Copy the "getaccept" folder to the apps folder in the Actionpad-folder.
